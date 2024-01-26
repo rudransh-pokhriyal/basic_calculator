@@ -13,4 +13,8 @@ class misc
     {
         return Math.pow(a,n);
     }
+    int squareroot(double a)
+    {
+        return Math.sqrt(a);
+    }
 }
