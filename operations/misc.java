@@ -9,7 +9,7 @@ class misc
         else
         return a*fact(a-1);
     }
-    int exponential(int a,int n)
+    int power(int a,int n)
     {
         return Math.pow(a,n);
     }
