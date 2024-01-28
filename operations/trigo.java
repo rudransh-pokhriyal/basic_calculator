@@ -2,21 +2,21 @@ import java.util.*;
 import java.lang.*;
 class trigo
 {
-    double sine(double deg)
+    double Sin(double deg)
     {
         double rad=Math.toRadians(deg);
         return Math.sin(rad);
     }
 
 
-    double cosine(double deg)
+    double Cos(double deg)
     {
         double rad=Math.toRadians(deg);
         return Math.cos(rad);
     }
 
 
-    double tangent(double deg)
+    double Tan(double deg)
     {
         double rad=Math.toRadians(deg);
         return Math.tan(rad);
